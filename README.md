@@ -1,3 +1,4 @@
 # tiktok
-1. podcasts option on tt
-2.descriptive audio for the visually impaired
+1. cool feature a 
+2. cool feature b 
+3. cool feature c
